@@ -1,0 +1,6 @@
+.facility-container{
+    display: flex;
+    justify-content: left;
+    text-align: left;
+    margin-left: 30px;
+}

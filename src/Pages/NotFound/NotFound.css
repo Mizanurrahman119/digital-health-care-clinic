@@ -1,0 +1,9 @@
+.not-found{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: rgb(83, 77, 85);
+}
+.image{
+    width: 300px;
+    height: 300px;
+}

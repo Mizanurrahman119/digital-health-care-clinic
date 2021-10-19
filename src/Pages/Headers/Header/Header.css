@@ -1,0 +1,21 @@
+.website-name{
+    color:tomato;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.nav-link{
+    padding-right: 30px;
+    color: whitesmoke;
+    font-weight: 700;
+}
+.login-btn{
+    text-decoration: none;
+    color: rgb(247, 109, 136);
+}
+
+@media only screen and (max-width:688px) {
+    .website-name{
+        font-size: larger;
+    }
+    
+}
