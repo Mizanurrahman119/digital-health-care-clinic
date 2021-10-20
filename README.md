@@ -1,9 +1,9 @@
 # Getting Started with Create React App
 ## Website Name:  Digital Health Care Clinic
 
-### Website Link: 
+### Website Link:
 
-### Bullet Point:
+### Bulet Point:
 #### 1. Go to my Website showing Home page.
 #### 2. Tap the about button show our abouts.
 #### 3. Tap the facility button show our facilities.
