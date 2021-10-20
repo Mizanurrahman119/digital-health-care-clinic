@@ -12,7 +12,7 @@ const Slider = () => {
                 <Carousel.Item interval={1000}>
                     <img
                         className="d-block w-100 py-4"
-                        src="https://i.ibb.co/0BjHfL6/slider-6.jpg"
+                        src="https://image.freepik.com/free-photo/successful-medical-team_329181-9252.jpg?fbclid=IwAR2l0KPk4Y2UIr56Xe9N8wDgQ7BO25VGOCZ1SF2GnzvRNsjE2tsppHbEQjs"
                         alt="First slide"/>
 
                     <Carousel.Caption>
@@ -24,7 +24,7 @@ const Slider = () => {
                 <Carousel.Item>
                     <img
                         className="d-block w-100 py-4"
-                        src="https://i.ibb.co/xYvLJgm/slider-5.jpg"
+                        src="https://img.freepik.com/free-photo/team-young-specialist-doctors-standing-corridor-hospital_1303-21199.jpg?size=338&ext=jpg&fbclid=IwAR3DauPkzI1a47cc4T4E-CMt9FcuG21bNHsJVFswNP7jx-R2F-TkX6Lvc3Y"
                         alt="Second slide"/>
                     <Carousel.Caption>
                         <h3 className="slide-header">Welcome to our Website</h3>
@@ -35,7 +35,7 @@ const Slider = () => {
                 <Carousel.Item>
                     <img
                         className="d-block w-100 py-4"
-                        src="https://i.ibb.co/r6DmC4D/slider-4.jpg"
+                        src="https://image.freepik.com/free-vector/surgical-lab-illustrated-background_52683-68262.jpg?fbclid=IwAR3cqA6jGtimfPVrTGSYjUagIbTxLd5ubeOiCSZbDmWr6H5q9eCWPteM5A8"
                         alt="Third slide"/>
 
                     <Carousel.Caption>

@@ -12,7 +12,7 @@ const Header = () => {
                 <Container>
                     <Navbar.Toggle />
                     <div>
-                        <h2 className="website-name">Digital Health Care Clinic</h2>
+                        <h2 className="website-name">Popular Hospital</h2>
                         </div>
                     <Navbar.Collapse className="justify-content-center">
                         <Link  className='nav-link' to="/home">Home</Link>
